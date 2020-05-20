@@ -9,11 +9,11 @@ public class HelloWorld {
 
     public static void main(String[] args) {
         getlist();
-         System.out.println("helloworld");
+        System.out.println("helloworld");
 
         List<String> list = new ArrayList<>();
 
-                list.add("ada");
+        list.add("ada");
 
 
     }

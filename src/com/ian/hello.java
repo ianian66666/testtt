@@ -17,9 +17,9 @@ public class hello {
             List<String> list = new ArrayList<>();
             for (int i = 0; i < list.size(); i++) {
                 String s = args[i];
-                
+
             }
-            list.for
+            list. for
         }
     }
 }
